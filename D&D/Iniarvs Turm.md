@@ -1,0 +1,19 @@
+- meist von Sir Melenikus empfangen
+	- verspricht Schein, welchen sie in Waterdeep gegen Gold tauschen können
+		- Menge hängt vom Grad des Erfolges ab
+- Watcher können auf Anfrage 
+	- folgende Zauber bereitstellen:
+		- Cure Wounds (lv. 1) 8/Tag
+		- Cure wounds (lv. 3) 4/Tag
+		- Minor Restoration 8/Tag
+	- folgende Items bereitstellen:
+		- 3 potions of greater healing oder 1 potion of healing pro spieler 
+		- 2 Scroll of Lesser Restoration in wasserdichtem Gefäß
+- niemand der Wächter begleitet Abenteurer
+# Wächter am Turm
+- 12 Wächter + 12 Wächter
+	- zwei Level 11 Priester (Balathel und Gharvan)
+	- drei Level 9 Priester (Metedes, Arathylar und Hendran)
+	- drei Level 7 Priester (Lorelle, Amilie und Fernastus)
+	- viel Level 5 Priester (Jarain, Daunzra, Olothyr and Rurumil)
+- 

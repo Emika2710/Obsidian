@@ -1,0 +1,1 @@
+- Paladin in edler Plattenrüstung verschmutzt durch den Sumpf

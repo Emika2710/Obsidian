@@ -1,0 +1,3 @@
+- wohlhabender Seefahrer
+- lebte vor rund 200 Jahren
+- Besitzer des [[Wolfhill House]]

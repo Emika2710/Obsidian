@@ -1,0 +1,2 @@
+- **pure blood Yuan-Ti**, meist in Menschlicher Gestalt
+- dient als Brücke zwischen Labor der Yuan-Ti und der zivilisierten Welt
